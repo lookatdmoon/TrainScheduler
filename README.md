@@ -1,2 +1,2 @@
-# TrainScheduler
-Firebase Assignment - Train Scheduler 
+# GifTastic
+Week 6 - GifTastic
